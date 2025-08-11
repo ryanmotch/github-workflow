@@ -1,6 +1,9 @@
 # GitHub Workflow
 
-To improve is to change.
+feature-B
+There is nothing permanent, except change.
+
+ main
 In this workshop, you will practice using `git` to version control your projects. You will also learn some best practices on how to collaborate with other developers on code using GitHub.
 
 Since this workshop focuses on working with another developer, **do not continue to the next section until your partner is ready**! The steps _must_ be followed in the given order.
